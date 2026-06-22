@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.sqlite3
+test.db
+booking.sql
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
